@@ -1,3 +1,26 @@
+## udp_msgs (noetic) - 0.0.4-1
+
+The packages in the `udp_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --ros-distro noetic --track noetic udp_msgs --edit` on `Sat, 02 Dec 2023 16:38:10 -0000`
+
+The `udp_msgs` package was released.
+
+Version of package(s) in repository `udp_msgs`:
+
+- upstream repository: git@github.com:flynneva/udp_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## udp_msgs (rolling) - 0.0.3-3
 
 The packages in the `udp_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling udp_msgs --edit` on `Tue, 31 Aug 2021 03:04:25 -0000`
